@@ -1,14 +1,14 @@
 # QuantLab 方案介绍
 
-**私有只读仓库。** 仅向获授权的人开放。本文说明 QuantLab 是什么、怎么部署、研究原则是什么，以及如何联系。
+本文说明 QuantLab 是什么、怎么部署、研究原则是什么，以及如何联系。本仓库公开，只放介绍和联系二维码；源码仓库保持私有。
 
 | 项目 | 说明 |
 |---|---|
 | 产品 | QuantLab，本机量化研究与回测工作台 |
 | 当前版本 | `0.1.0`（Alpha） |
 | 默认资产 | A 股（可另起数字货币实例） |
-| 本文仓库 | 方案介绍 + 联系方式，不含源码和数据 |
-| 访问方式 | GitHub Private + Read，详见 [ACCESS.md](ACCESS.md) |
+| 本文仓库 | 公开的方案介绍 + 微信二维码，不含源码和数据 |
+| 源码仓库 | 私有，详见 [ACCESS.md](ACCESS.md) |
 
 ---
 
@@ -148,12 +148,9 @@ quantlab serve
 
 ## 9. 本仓库怎么用
 
-1. 仓库可见性：**Private**
-2. 给需要阅读方案的人：**Read**
-3. 对方可以打开 GitHub 阅读本文，也可以 clone；**不能改本仓库**
-4. 邀请和撤权步骤见 [ACCESS.md](ACCESS.md)
-
-能看就能下载。若内容不能离开本机，请改用当面演示、屏幕分享，或只发截图，不要发 GitHub 邀请。
+1. 本仓库可见性：**Public**，发链接即可阅读
+2. 源码仓库 `quantlab` 保持 **Private**
+3. 需要阅读源码时，由所有者按 Read 邀请；步骤见 [ACCESS.md](ACCESS.md)
 
 ---
 
@@ -164,13 +161,12 @@ quantlab serve
 | 项目 | 内容 |
 |---|---|
 | 微信名 | Jackey |
-| 地区 | 上海 嘉定 |
 | GitHub | [zwm521gmailcom](https://github.com/zwm521gmailcom) |
 
 扫码添加：
 
-![微信二维码：Jackey（上海 嘉定）](assets/wechat-jackey.png)
+![微信二维码](assets/wechat-jackey.png)
 
 ---
 
-本文仅供获授权人员阅读。未经同意，请勿公开转发、改成 Public，或把内容同步到其他可匿名访问的位置。
+源码、数据和 Token 不在本仓库。请勿把它们提交到这里。
